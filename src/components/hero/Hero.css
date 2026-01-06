@@ -1,0 +1,66 @@
+.top-overlay{
+    background-image: linear-gradient(#5383A9, #5383A963,#5C8AB000) !important;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.hero-container{
+    position: relative;
+}
+.title-content{
+    font-weight:500;
+    font-size: 60px;
+    letter-spacing: -2.5%;
+}
+.overlay-title-content{
+    margin: auto;
+    top: 20%;
+    left: 0;
+    right:0;
+    color: #FFFFFF;
+    position: absolute;
+    text-align: center;
+}
+.title-content-small{
+    font-size: 15px;
+    /* position: absolute; */
+
+}
+.main-page-image{
+    width: 100%;
+    height: 770px !important;
+}
+.overlay-bottom{
+    height: 220px;
+    background-image: linear-gradient(#FFFFFF00, #FFFFFF5E, #FFFFFFC7, #FFFFFFF0, #FFFFFF) !important;
+    position: absolute;
+    margin: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+@media screen and (max-width: 770px) {
+
+    .overlay-bottom{
+        height: 180px;
+    }
+  .main-page-image{
+    width: 100%;
+    height: 650px !important;
+}
+.overlay-title-content{
+    top: 10%;
+}
+.top-overlay{
+    height: 500px;
+
+}
+.title-content{
+    font-weight:490;
+    font-size: 55px;
+}
+}
