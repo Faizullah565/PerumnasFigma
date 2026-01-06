@@ -10,7 +10,7 @@ const Features2 = () => {
             <h3 className='feature-section2-heading1'>Modern Design</h3>
             <p>Cluster housing perumnas has a modern and elegant house design. You can choose the type of house that suits your taste and needs, ranging from type 36 to type 120. </p>
             <h3 className='feature-section2-heading1'>Guaranteed Security</h3>
-            <p>Cluster housing perumnas has an integrated security system. Each cluster is equipped with a fence, gate, and guard post that are monitored by professional security officers. In addition, each house is also equipped with a fire alarm and CCTV.</p>
+            <p>Cluster housing perumnas has an integrated security system. Each cluster is equipped with a fence, gate, and guard post that are monitored by professional security officers. In addition, each house isalso equipped with a fire alarm and CCTV.</p>
         </div>
     </div>
   )

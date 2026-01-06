@@ -1,0 +1,19 @@
+
+.features3-container{
+    display: flex;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap; */
+}
+.box p{
+    padding-right: 150px;
+    margin-bottom: 50px;
+}
+.features3-image1{
+    width: 600px;
+}
+.features3-image2{
+    width: 600px;
+}
+.features3-image3{
+    width: 400px;
+}

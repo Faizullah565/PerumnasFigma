@@ -3,7 +3,7 @@ import { Col, Row } from 'react-bootstrap'
 import "./Glallery.css"
 const Glallery = () => {
     return (
-        <div className="glallery-container">
+        <div className="glallery-container container">
             
                     <img src="glallery1.jpg" alt="Glallery1" className='glallery-images'/>
                 

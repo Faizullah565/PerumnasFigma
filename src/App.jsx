@@ -5,6 +5,7 @@ import HeroSection from './components/hero/HeroSection';
 import Features from './components/features/Features';
 import Glallery from './components/glarrery/Glallery';
 import Features2 from './components/features2/Features2';
+import Features3 from './components/features3/Features3';
 const App = () => {
   return (
     <div>
@@ -14,6 +15,7 @@ const App = () => {
         <Features/>
         <Glallery/>
         <Features2/>
+        <Features3/>
         <Routes>
           <Route>
             

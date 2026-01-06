@@ -3,7 +3,7 @@ import { Col, Row } from 'react-bootstrap'
 import './Features.css'
 const Features = () => {
     return (
-        <div className="features-section-container">
+        <div className="features-section-container container">
             <Row>
                 <Col md={4} className='p-4'>
                     <h1>Enjoy Quality Life in Perumnas Housing</h1>
